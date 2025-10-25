@@ -76,7 +76,7 @@
 </div>
  
  
-![Snake animation](https://github.com/dougsoftware/dougsoftware/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/douglasmtss/douglasmtss/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 🧠 Linguagens mais utilizadas
