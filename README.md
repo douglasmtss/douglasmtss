@@ -92,13 +92,13 @@
 - **C**: 98909 bytes
 - **C++**: 74740 bytes
 - **MDX**: 70138 bytes
+- **Dart**: 47114 bytes
 - **Hack**: 39704 bytes
 - **Shell**: 38432 bytes
 - **SCSS**: 27632 bytes
 - **Kotlin**: 21171 bytes
 - **Ruby**: 17356 bytes
 - **Vue**: 16393 bytes
-- **Dart**: 15152 bytes
 - **Vim Script**: 14163 bytes
 - **Objective-C++**: 11722 bytes
 - **PHP**: 9267 bytes
