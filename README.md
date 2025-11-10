@@ -98,6 +98,7 @@
 - **Kotlin**: 21171 bytes
 - **Ruby**: 17356 bytes
 - **Vue**: 16393 bytes
+- **Dart**: 15152 bytes
 - **Vim Script**: 14163 bytes
 - **Objective-C++**: 11722 bytes
 - **PHP**: 9267 bytes
