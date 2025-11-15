@@ -89,8 +89,8 @@
 - **CSS**: 538140 bytes
 - **Jupyter Notebook**: 369984 bytes
 - **C++**: 146627 bytes
+- **Dart**: 140045 bytes
 - **Python**: 124224 bytes
-- **Dart**: 121576 bytes
 - **C**: 101369 bytes
 - **MDX**: 70138 bytes
 - **CMake**: 54814 bytes
