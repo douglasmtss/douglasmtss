@@ -82,29 +82,29 @@
 ## 🧠 Linguagens mais utilizadas
 
 <!-- LANGUAGES-START -->
-- **HTML**: 3644619 bytes
+- **HTML**: 3648984 bytes
 - **Java**: 2688997 bytes
 - **JavaScript**: 1352864 bytes
 - **TypeScript**: 1016658 bytes
 - **CSS**: 538140 bytes
 - **Jupyter Notebook**: 369984 bytes
-- **C++**: 146627 bytes
-- **Dart**: 140045 bytes
+- **C++**: 296529 bytes
+- **Dart**: 281721 bytes
+- **C**: 202809 bytes
+- **CMake**: 150284 bytes
 - **Python**: 124224 bytes
-- **C**: 101369 bytes
 - **MDX**: 70138 bytes
-- **CMake**: 54814 bytes
 - **Hack**: 39704 bytes
 - **Shell**: 38432 bytes
 - **SCSS**: 27632 bytes
-- **Kotlin**: 21534 bytes
-- **Ruby**: 20111 bytes
+- **Ruby**: 22914 bytes
+- **Kotlin**: 22053 bytes
 - **Vue**: 16393 bytes
 - **Vim Script**: 14163 bytes
 - **Objective-C++**: 11722 bytes
 - **PHP**: 9267 bytes
-- **Objective-C**: 7837 bytes
-- **Swift**: 4995 bytes
+- **Swift**: 9198 bytes
+- **Objective-C**: 7989 bytes
 - **XSLT**: 4849 bytes
 - **Dockerfile**: 4112 bytes
 - **EJS**: 915 bytes
