@@ -88,7 +88,7 @@
 - **TypeScript**: 1016658 bytes
 - **CSS**: 538140 bytes
 - **Jupyter Notebook**: 369984 bytes
-- **Dart**: 301436 bytes
+- **Dart**: 300358 bytes
 - **C++**: 296529 bytes
 - **C**: 202809 bytes
 - **CMake**: 150284 bytes
