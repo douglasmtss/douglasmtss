@@ -82,11 +82,11 @@
 ## 🧠 Linguagens mais utilizadas
 
 <!-- LANGUAGES-START -->
-- **HTML**: 3650899 bytes
+- **HTML**: 3652679 bytes
 - **Java**: 2688997 bytes
 - **TypeScript**: 1609537 bytes
-- **JavaScript**: 1349787 bytes
-- **CSS**: 539419 bytes
+- **JavaScript**: 1364268 bytes
+- **CSS**: 547064 bytes
 - **Jupyter Notebook**: 369984 bytes
 - **Dart**: 300358 bytes
 - **C++**: 296529 bytes
