@@ -84,9 +84,9 @@
 <!-- LANGUAGES-START -->
 - **HTML**: 3652689 bytes
 - **Java**: 2688997 bytes
-- **TypeScript**: 1630317 bytes
-- **JavaScript**: 1385278 bytes
-- **CSS**: 547524 bytes
+- **TypeScript**: 1865266 bytes
+- **JavaScript**: 1386856 bytes
+- **CSS**: 556200 bytes
 - **Jupyter Notebook**: 369984 bytes
 - **Dart**: 300358 bytes
 - **C++**: 296529 bytes
