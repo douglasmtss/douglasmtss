@@ -1,85 +1,148 @@
-### Hi there 👋 I'm Douglas Matos da Silva
+<div align="center">
 
+<!-- Animated Header Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Douglas%20Matos&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Front-end%20Specialist&descAlignY=58&descColor=8b949e" />
 
-- 🔭 I’m currently working with front-end
-- 🌱 I’m currently learning back-end, Java, Python, AI.
-- 😄 Pronouns: He/Him
+<!-- Typing Animation -->
+<a href="https://github.com/douglasmtss">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I%27m+Douglas+%F0%9F%91%8B;Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript+Enthusiast;Always+learning+new+things...;Let%27s+build+something+awesome!" alt="Typing SVG" />
+</a>
 
- <br/>
-<h2>Languages and tools</h2>
- <div style="display: inline_block" align="center">
-  <br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  
-  <img align="center" alt="Babel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-plain.svg">
-  <img align="center" alt="Webpack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-plain.svg">
-  
-  <img align="center" alt="Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
-  
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-  <img align="center" alt="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+<!-- Profile Views + Followers -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=douglasmtss&label=Profile+Views&color=58a6ff&style=flat-square" alt="douglasmtss" />
+  <img src="https://img.shields.io/github/followers/douglasmtss?label=Followers&style=flat-square&color=58a6ff" alt="followers" />
+</p>
 
-    
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  
-   <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  
-   <img align="center" alt="Intellij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
-   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  
-   <img align="center" alt="Heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
-  
-  <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-<!--   <img align="right" alt="yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif"> -->
 </div>
- 
-   ##
- 
-<div align="center"> 
-  <a href = "mailto:douglasmatosdev@gmail.com">
-   <img  src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  
-  <a href="https://www.linkedin.com/in/devdouglasmatos/" target="_blank">
-   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
- 
- <a href="https://web.whatsapp.com/send?phone=5521994642132" target="_blank">
-   <img src="https://img.shields.io/badge/-Whatsapp-%230077B5?style=for-the-badge&color=yellow&logo=whatsapp&logoColor=white" target="_blank">
-  </a> 
- 
- <a href="https://twitter.com/devdouglasmatos" target="_blank">
-  <img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&color=blue&logo=twitter&logoColor=white" target="_blank" />
- </a>
- 
-  <a href="https://www.facebook.com/devdouglasmatos/" target="_blank">
-  <img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&color=blue&logo=facebook&logoColor=white" target="_blank" />
- </a>
- 
-  <a href="https://discordapp.com/users/douglasmatosdev#8237" target="_blank">
-  <img src="https://img.shields.io/badge/-Discord-%230077B5?style=for-the-badge&color=blue&logo=discord&logoColor=white" target="_blank" />
- </a>
- 
- <a href="https://t.me/+5521994642132" target="_blank">
- <img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&color=blue&logo=telegram&logoColor=white" target="_blank" />
- </a>
+
+---
+
+<!-- About Me -->
+<img align="right" alt="coding gif" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+### 🚀 About Me
+
+```typescript
+const douglas = {
+  pronouns: "He/Him",
+  location: "Brazil 🇧🇷",
+  role: "Full Stack Developer",
+  currently: {
+    working: "Front-end development",
+    learning: ["Back-end", "Java", "Python", "AI/ML"],
+  },
+  passions: ["Clean Code", "UX/UI", "Open Source"],
+  funFact: "I turn coffee ☕ into code",
+};
+```
+
+<br clear="right"/>
+
+---
+
+<!-- GitHub Stats -->
+<div align="center">
+
+### 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasmtss&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasmtss&layout=compact&langs_count=8&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
+    </td>
+  </tr>
+</table>
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=douglasmtss&theme=github-dark-blue&border=30363d&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&dates=8b949e" alt="GitHub Streak" />
+
 </div>
- 
- 
-![Snake animation](https://github.com/douglasmtss/douglasmtss/blob/output/github-contribution-grid-snake.svg)
 
+---
 
-## 🧠 Linguagens mais utilizadas
+<!-- Trophies -->
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=douglasmtss&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+
+</div>
+
+---
+
+<!-- Tech Stack -->
+<div align="center">
+
+### 🛠️ Tech Stack & Tools
+
+**Frontend**
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind,figma&theme=dark)](https://skillicons.dev)
+
+**Backend & Infra**
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,java,spring,python,mysql,mongodb,docker,heroku&theme=dark)](https://skillicons.dev)
+
+**Tools & Others**
+
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,idea,webpack,babel,jest&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+<!-- Activity Graph -->
+<div align="center">
+
+### 📈 Contribution Activity
+
+[![Douglas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=douglasmtss&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<!-- Snake Animation -->
+<div align="center">
+
+### 🐍 My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/douglasmtss/douglasmtss/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/douglasmtss/douglasmtss/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://github.com/douglasmtss/douglasmtss/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<!-- Social Links -->
+<div align="center">
+
+### 🌐 Connect with me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglasmatosdev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devdouglasmatos/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/send?phone=5521994642132)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devdouglasmatos)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/devdouglasmatos/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/douglasmatosdev#8237)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+5521994642132)
+
+</div>
+
+---
+
+<!-- Languages Section (auto-updated by CI) -->
+<div align="center">
+
+### 🧠 Most Used Languages (by bytes)
 
 <!-- LANGUAGES-START -->
 - **HTML**: 6024192 bytes
@@ -98,17 +161,11 @@
 - **Hack**: 39704 bytes
 - **SCSS**: 27632 bytes
 - **Ruby**: 22914 bytes
-- **Kotlin**: 22203 bytes
-- **Vue**: 16393 bytes
-- **Vim Script**: 14163 bytes
-- **Objective-C++**: 11722 bytes
-- **Swift**: 9602 bytes
-- **PHP**: 9267 bytes
-- **Objective-C**: 8027 bytes
-- **XSLT**: 4849 bytes
-- **Dockerfile**: 4112 bytes
-- **EJS**: 915 bytes
-- **Starlark**: 602 bytes
-- **Rust**: 44 bytes
-- **Procfile**: 17 bytes
 <!-- LANGUAGES-END -->
+
+</div>
+
+---
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" />
