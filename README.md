@@ -69,7 +69,7 @@ const douglas = {
 
 ### 🏆 GitHub Trophies
 
-<img src="https://raw.githubusercontent.com/douglasmtss/douglasmtss/output/trophies.svg" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=douglasmtss&theme=darkhub&no-frame=true&margin-w=4&column=6" alt="trophies" />
 
 </div>
 
