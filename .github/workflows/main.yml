@@ -22,6 +22,14 @@ jobs:
       - name: Ensure dist directory exists
         run: mkdir -p dist
 
+      # Trophies SVG cache
+      - name: Download trophies SVG
+        run: |
+          curl -sSf "https://github-profile-trophy.vercel.app/?username=douglasmtss&theme=darkhub&no-frame=true&margin-w=4&column=6" \
+            -o dist/trophies.svg \
+            --retry 3 --retry-delay 5 \
+            || echo "Trophy service unavailable, skipping"
+
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
