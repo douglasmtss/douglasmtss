@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://github.com/douglasmtss">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I%27m+Douglas+%F0%9F%91%8B;Full+Stack+Developer;JavaScript+%7C+Java+%7C+Python+%7C+AI+%7C+Linux+Enthusiast;Always+learning+new+things...;Let%27s+build+something+awesome!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there!+I%27m+Douglas+%F0%9F%91%8B;Full+Stack+Developer;JavaScript+%7C+Java+%7C+Python+%7C+AI+%7C+Linux+Enthusiast;Always+learning+new+things...;Let%27s+build+something+awesome!" alt="Typing SVG" />
 </a>
 
 <!-- Profile Views + Followers -->
