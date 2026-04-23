@@ -82,11 +82,21 @@ const douglas = {
 
 **Frontend**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind,styledcomponents,figma&theme=dark)](https://skillicons.dev)
+
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
 
 **Backend & Infra**
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,java,spring,python,mysql,mongodb,docker,heroku&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,java,spring,python,mysql,mongodb,docker,heroku,aws,gcp,linux,bash&theme=dark)](https://skillicons.dev)
+
+**AI & Machine Learning**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-FF6F00?style=for-the-badge&logo=probot&logoColor=white)
+![AI Skills](https://img.shields.io/badge/AI%20Skills-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 **Tools & Others**
 
