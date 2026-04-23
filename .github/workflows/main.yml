@@ -10,6 +10,8 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
       # Snake Animation
       - uses: Platane/snk@v3
         id: snake-gif
