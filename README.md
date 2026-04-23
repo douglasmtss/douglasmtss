@@ -27,7 +27,7 @@
 const douglas = {
   pronouns: "He/Him",
   location: "Brazil 🇧🇷",
-  role: "Software Engineer | SoftwareDeveloper",
+  role: "Software Engineer | Software Developer",
   currently: {
     working: "Software development",
     learning: ["Java", "AI/ML", "MCP", "AI Agents"],
