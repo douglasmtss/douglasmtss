@@ -14,6 +14,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Ensure dist directory exists
+        run: mkdir -p dist && chmod 777 dist
+
       # Snake Animation
       - uses: Platane/snk@v3
         id: snake-gif
@@ -22,9 +25,6 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Ensure dist directory exists
-        run: mkdir -p dist
 
       # Trophies SVG (generated locally, no external service needed)
       - name: Generate trophy SVG
