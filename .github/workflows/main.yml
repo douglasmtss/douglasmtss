@@ -24,20 +24,14 @@ jobs:
       - name: Ensure dist directory exists
         run: mkdir -p dist
 
-      # Trophies SVG cache
-      - name: Download trophies SVG
-        run: |
-          mkdir -p dist
-          TROPHY_URL="https://github-profile-trophy.vercel.app/?username=douglasmtss&theme=darkhub&no-frame=true&margin-w=4&column=6"
-          if curl -sSf "$TROPHY_URL" -o /tmp/trophies_new.svg --retry 3 --retry-delay 5 && grep -q "<svg" /tmp/trophies_new.svg; then
-            cp /tmp/trophies_new.svg dist/trophies.svg
-            echo "Trophy SVG downloaded successfully"
-          else
-            echo "Trophy service unavailable, fetching cached version from output branch"
-            git fetch origin output 2>/dev/null && \
-              git show origin/output:trophies.svg > dist/trophies.svg 2>/dev/null && \
-              echo "Cached version restored" || echo "No cached version available"
-          fi
+      # Trophies SVG (generated locally, no external service needed)
+      - name: Generate trophy SVG
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: douglasmtss
+          output_path: dist/trophies.svg
+          theme: darkhub
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
