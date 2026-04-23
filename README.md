@@ -171,7 +171,7 @@ const douglas = {
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" /><br/><sub><b>202.8 KB</b></sub></td>
 <td align="center"><img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake" /><br/><sub><b>150.3 KB</b></sub></td>
-<td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /><br/><sub><b>124.2 KB</b></sub></td>
+<td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /><br/><sub><b>126.6 KB</b></sub></td>
 <td align="center"><img src="https://img.shields.io/badge/MDX-1B1F24?style=flat-square&logo=markdown&logoColor=white" alt="MDX" /><br/><sub><b>70.2 KB</b></sub></td>
 </tr>
 <tr>
@@ -179,6 +179,27 @@ const douglas = {
 <td align="center"><img src="https://img.shields.io/badge/Hack-878787?style=flat-square&logo=php&logoColor=white" alt="Hack" /><br/><sub><b>39.7 KB</b></sub></td>
 <td align="center"><img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" alt="SCSS" /><br/><sub><b>27.6 KB</b></sub></td>
 <td align="center"><img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby" /><br/><sub><b>22.9 KB</b></sub></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Kotlin-555555?style=flat-square&logo=code&logoColor=white" alt="Kotlin" /><br/><sub><b>22.2 KB</b></sub></td>
+<td align="center"><img src="https://img.shields.io/badge/Vue-555555?style=flat-square&logo=code&logoColor=white" alt="Vue" /><br/><sub><b>16.4 KB</b></sub></td>
+<td align="center"><img src="https://img.shields.io/badge/Vim%20Script-555555?style=flat-square&logo=code&logoColor=white" alt="Vim Script" /><br/><sub><b>14.2 KB</b></sub></td>
+<td align="center"><img src="https://img.shields.io/badge/Objective-C%2B%2B-555555?style=flat-square&logo=code&logoColor=white" alt="Objective-C++" /><br/><sub><b>11.7 KB</b></sub></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Swift-555555?style=flat-square&logo=code&logoColor=white" alt="Swift" /><br/><sub><b>9.6 KB</b></sub></td>
+<td align="center"><img src="https://img.shields.io/badge/PHP-555555?style=flat-square&logo=code&logoColor=white" alt="PHP" /><br/><sub><b>9.3 KB</b></sub></td>
+<td align="center"><img src="https://img.shields.io/badge/Objective-C-555555?style=flat-square&logo=code&logoColor=white" alt="Objective-C" /><br/><sub><b>8.0 KB</b></sub></td>
+<td align="center"><img src="https://img.shields.io/badge/XSLT-555555?style=flat-square&logo=code&logoColor=white" alt="XSLT" /><br/><sub><b>4.8 KB</b></sub></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Dockerfile-555555?style=flat-square&logo=code&logoColor=white" alt="Dockerfile" /><br/><sub><b>4.1 KB</b></sub></td>
+<td align="center"><img src="https://img.shields.io/badge/EJS-555555?style=flat-square&logo=code&logoColor=white" alt="EJS" /><br/><sub><b>915 B</b></sub></td>
+<td align="center"><img src="https://img.shields.io/badge/Starlark-555555?style=flat-square&logo=code&logoColor=white" alt="Starlark" /><br/><sub><b>602 B</b></sub></td>
+<td align="center"><img src="https://img.shields.io/badge/Rust-555555?style=flat-square&logo=code&logoColor=white" alt="Rust" /><br/><sub><b>44 B</b></sub></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Procfile-555555?style=flat-square&logo=code&logoColor=white" alt="Procfile" /><br/><sub><b>17 B</b></sub></td>
 </tr>
 </table>
 <!-- LANGUAGES-END -->
