@@ -29,7 +29,7 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: douglasmtss
-          output_path: dist/trophies.svg
+          file: dist/trophies.svg
           theme: darkhub
           token: ${{ secrets.GITHUB_TOKEN }}
 
