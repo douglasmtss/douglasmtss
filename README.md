@@ -27,12 +27,12 @@
 const douglas = {
   pronouns: "He/Him",
   location: "Brazil 🇧🇷",
-  role: "Full Stack Developer",
+  role: "Software Engineer | SoftwareDeveloper",
   currently: {
-    working: "Front-end development",
-    learning: ["Back-end", "Java", "Python", "AI/ML"],
+    working: "Software development",
+    learning: ["Java", "AI/ML", "MCP", "AI Agents"],
   },
-  passions: ["Clean Code", "UX/UI", "Open Source"],
+  passions: ["Algorithms", "Clean Code", "UX/UI", "Open Source"],
   funFact: "I turn coffee ☕ into code",
 };
 ```
