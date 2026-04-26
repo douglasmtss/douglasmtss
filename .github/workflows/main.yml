@@ -21,7 +21,7 @@ jobs:
       - uses: Platane/snk@v3.4.1
         id: snake-gif
         with:
-          github_user_name: douglasmtss
+          github_user_name: dougmotshell
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -30,7 +30,7 @@ jobs:
       - name: Generate trophy SVG
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
-          username: douglasmtss
+          username: dougmotshell
           file: dist/trophies.svg
           theme: darkhub
           token: ${{ secrets.GITHUB_TOKEN }}

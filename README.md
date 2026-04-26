@@ -4,14 +4,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Douglas%20Matos&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20SOFTWARE%20DEVELOPER&descAlignY=58&descColor=8b949e" />
 
 <!-- Typing Animation -->
-<a href="https://github.com/douglasmtss">
+<a href="https://github.com/dougmotshell">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there!+I%27m+Douglas+%F0%9F%91%8B;Full+Stack+Developer;JavaScript+%7C+Java+%7C+Python+%7C+AI+%7C+Linux+Enthusiast;Always+learning+new+things...;Let%27s+build+something+awesome!" alt="Typing SVG" />
 </a>
 
 <!-- Profile Views + Followers -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=douglasmtss&label=Profile+Views&color=58a6ff&style=flat-square" alt="douglasmtss" />
-  <img src="https://img.shields.io/github/followers/douglasmtss?label=Followers&style=flat-square&color=58a6ff" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=dougmotshell&label=Profile+Views&color=58a6ff&style=flat-square" alt="dougmotshell" />
+  <img src="https://img.shields.io/github/followers/dougmotshell?label=Followers&style=flat-square&color=58a6ff" alt="followers" />
 </p>
 
 </div>
@@ -49,16 +49,16 @@ const douglas = {
 <table>
   <tr>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasmtss&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dougmotshell&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
     </td>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasmtss&layout=compact&langs_count=8&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougmotshell&layout=compact&langs_count=8&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
     </td>
   </tr>
 </table>
 
 <!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=douglasmtss&theme=github-dark-blue&border=30363d&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&dates=8b949e" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=dougmotshell&theme=github-dark-blue&border=30363d&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&dates=8b949e" alt="GitHub Streak" />
 
 </div>
 
@@ -69,7 +69,7 @@ const douglas = {
 
 ### 🏆 GitHub Trophies
 
-<img src="https://raw.githubusercontent.com/douglasmtss/douglasmtss/output/trophies.svg" alt="trophies" />
+<img src="https://raw.githubusercontent.com/dougmotshell/dougmotshell/output/trophies.svg" alt="trophies" />
 
 </div>
 
@@ -111,7 +111,7 @@ const douglas = {
 
 ### 📈 Contribution Activity
 
-[![Douglas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=douglasmtss&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Douglas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dougmotshell&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -123,9 +123,9 @@ const douglas = {
 ### 🐍 My Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/douglasmtss/douglasmtss/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/douglasmtss/douglasmtss/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/douglasmtss/douglasmtss/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dougmotshell/dougmotshell/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dougmotshell/dougmotshell/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dougmotshell/dougmotshell/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
